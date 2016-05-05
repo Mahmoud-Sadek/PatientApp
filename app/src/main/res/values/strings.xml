@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Patient App</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_add_appointment">AddAppointment</string>
+    <string name="action_add">Add</string>
+    <string name="title_activity_detail_of_patient">DetailOfPatient</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search">Search</string>
+</resources>
